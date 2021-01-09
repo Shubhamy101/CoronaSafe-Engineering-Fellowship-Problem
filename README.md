@@ -1,4 +1,4 @@
-# CoronaSafe Engineering Fellowship Test Problem
+# CoronaSafe Engineering Fellowship Test Problem (C++)
 
 Thanks for applying to the CoronaSafe Engineering fellowship!
 
